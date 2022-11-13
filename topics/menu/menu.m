@@ -122,7 +122,7 @@ back: back kembali kembali◀️ kembali_◀️ Kembali◀️ kembali↩️
     q{
         <h3>MATERI</h3>
         <p>
-            Oke, jika tidak ada, Mahe ingin merekomendasikan beberapa video 
+            Oke, jika tidak ada, Metan ingin merekomendasikan beberapa video 
             youtube dan kumpilan rumus yang dapat kamu gunakan untuk mempelajari 
             materi Bangun Datar dan Dangun Ruang lebih dalam lagi😉
         </p>
@@ -225,5 +225,6 @@ K: $back intro
 --
 
 end-room
+
 
 

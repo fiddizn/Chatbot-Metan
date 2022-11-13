@@ -13,9 +13,9 @@
     "https://i.imgur.com/y288uBw.png"
     q{
         <h4>Hai SobatMetan!</h4>
-        <p style="text-align: justify"> Sobat metan pasti sudah tidak asingkan dengan yang namanya Pecahan? Nah bener banget, Pecahan itu adalah bagian dari keseluruhan atau bagian dari sekelompok benda. Sedangkan Pecahan biasa adalah bilangan yang dinyatakan dalam bentuk <sup>a</sup>/<sub>b</sub>, dengan a dan b adalah bilangan bulat serta b tidak sama dengan 0. </p><br/>
+        <p style="text-align: justify"> Sobat Metan tau gak pecahan biasa terbagai menjadi 2 jenis yaitu pecahan murni dan pecahan tidak murni. </p><br/>
     }q
-    "Nah sobat untuk bagian yang diwarnai dari gambar di atas menyatakan pecahan <sup>1</sup>/<sub>4</sub>. Nah sekarang sobat metan sudah tahu kan apa itu pecahan,yuk selanjutnya ikut metan menjelajah pecahan senilai."
+    "Pecahan murni ialah pecahan yang pembilangnya kurang dari penyebut.<p>Pecahan tidak murni ialah pembilangnya lebih dari penyebutnya.</p>"
     materi
 ;
 
@@ -24,9 +24,9 @@
     "https://i.imgur.com/y288uBw.png"
     q{
         <h4>Hai SobatMetan!</h4>
-        <p style="text-align: justify"> Sobat metan pasti sudah tidak asingkan dengan yang namanya Pecahan? Nah bener banget, Pecahan itu adalah bagian dari keseluruhan atau bagian dari sekelompok benda. Sedangkan Pecahan biasa adalah bilangan yang dinyatakan dalam bentuk <sup>a</sup>/<sub>b</sub>, dengan a dan b adalah bilangan bulat serta b tidak sama dengan 0. </p><br/>
+        <p style="text-align: justify"> Pecahan campuran terdiri atas bilangan bulat dan pecahan biasa ya sobat. Pecahan tidak murni dapat diubah menjadi pecahan campuran dengan cara membagi pembilang dengan penyebutnya. </p><br/>
     }q
-    "Nah sobat untuk bagian yang diwarnai dari gambar di atas menyatakan pecahan <sup>1</sup>/<sub>4</sub>. Nah sekarang sobat metan sudah tahu kan apa itu pecahan,yuk selanjutnya ikut metan menjelajah pecahan senilai."
+    "sama artinya dengan 17 : 5 = 3 sisa 2. Jadi <sup>17</sup>/<sub>5</sub>.3<sup>2</sup>/<sub>5</sub>. Nah, pecahan 3<sup>2</sup>/<sub>5</sub> adalah bentuk pecahan campuran."
     materi
 ;
 
@@ -36,9 +36,10 @@
     q{
         <h4>Hai SobatMetan!</h4>
         <h4>Bentuk</h4>
-        <p style="text-align: justify"> Sobat metan pasti sudah tidak asingkan dengan yang namanya Pecahan? Nah bener banget, Pecahan itu adalah bagian dari keseluruhan atau bagian dari sekelompok benda. Sedangkan Pecahan biasa adalah bilangan yang dinyatakan dalam bentuk <sup>a</sup>/<sub>b</sub>, dengan a dan b adalah bilangan bulat serta b tidak sama dengan 0. </p><br/>
+        <p style="text-align: justify"> Apa Sobat Metan tau bagaimana bentuk pecahan desimal?</p>
+        <p style="text-align: justify">Pecahan desimal adalah bentuk lain dari pecahan persepuluhan, perseratusan, dan seterusnya yang ditulis menggunakan tanda koma.</p></br>
     }q
-    "Nah sobat untuk bagian yang diwarnai dari gambar di atas menyatakan pecahan <sup>1</sup>/<sub>4</sub>. Nah sekarang sobat metan sudah tahu kan apa itu pecahan,yuk selanjutnya ikut metan menjelajah pecahan senilai."
+    "0,6 (dibaca nol koma enam), 1,75 (dibaca satu koma tujuh lima)."
     materi
 ;
 
@@ -48,12 +49,31 @@
     q{
         <h4>Hai SobatMetan!</h4>
         <h4>Bentuk</h4>
-        <p style="text-align: justify"> Sobat metan pasti sudah tidak asingkan dengan yang namanya Pecahan? Nah bener banget, Pecahan itu adalah bagian dari keseluruhan atau bagian dari sekelompok benda. Sedangkan Pecahan biasa adalah bilangan yang dinyatakan dalam bentuk <sup>a</sup>/<sub>b</sub>, dengan a dan b adalah bilangan bulat serta b tidak sama dengan 0. </p><br/>
+        <p style="text-align: justify"> Apa Sobat metan tau bentuk dari pecahan persen?</p>
+        <p style="text-align: justify">Persen adalah bentuk	lain dari pecahan berpenyebut seratus yang ditulis menggunakan tanda % ya sobat.</p></br>
     }q
-    "Nah sobat untuk bagian yang diwarnai dari gambar di atas menyatakan pecahan <sup>1</sup>/<sub>4</sub>. Nah sekarang sobat metan sudah tahu kan apa itu pecahan,yuk selanjutnya ikut metan menjelajah pecahan senilai."
+    "Bilangan 13% dibaca tiga belas persen"
     materi
 ;
 
+: materi-mengubahbentukPecahan ( -- "s" )
+    "Mengubah Bentuk Pecahan"
+    "https://i.imgur.com/y288uBw.png"
+    q{
+        <h4>Hai SobatMetan!</h4>
+        <p style="text-align: justify"> Akhirnya sudah sampai tahap mengubah bentuk pecahan ya sobatMetan. Nah dalam tahap ini Metan akan memberi contoh bagaimana mengubah bentuk pecahan, baik itu pecahan biasa ke desimal, desimal ke pecahan biasa, pecahan biasa ke persen dan persen ke pecahan biasa. </p>
+        <p style="text-align: justify"><h4>Pecahan Biasa ke Desimal</h4></p>
+        <p style="text-align: justify">Ubah menjadi pecahan berpenyebut 10, 100, atau seterusnya ya, lalu tuliskan desimalnya sobat.</p>
+        <p style="text-align: justify"><h4>Desimal ke Pecahan Biasa</h4></p>
+        <p style="text-align: justify">Ubah pecahan desimal menjadi pecahan berpenyebut 10, 100, atau seterusnya ya, lalu sederhanakan sobat.</p>
+        <p style="text-align: justify"><h4>Pecahan Biasa ke Persen</h4></p>
+        <p style="text-align: justify">Ubah menjadi pecahan berpenyebut 100 ya sobat ,	lalu tuliskan dalam bentuk persen.</p>
+        <p style="text-align: justify"><h4>Persen ke Pecahan Biasa</h4></p>
+        <p style="text-align: justify">Ubah bentuk persen menjadi pecahan berpenyebut 100, lalu sederhanakan.</p>
+    }q
+    "Ingat ya sobat Metan desimal itu yang ada komanya(,) di angkanya, pecahan biasa ada tanda per-nya(/), dan persen ada tanda persennya(%)."
+    materi
+;
 
 \ ---------------------------------------------------------------------------
 
@@ -75,6 +95,10 @@ Q: @persen
 A: ${ materi-bentukpecahanPersen } ${ menu-back }
 --
 
+Q: @mengubahbentukPecahan
+A: ${ materi-mengubahbentukPecahan } ${ menu-back }
+--
+
 Q: @back
 A: ${ menu-bentuk-pecahan } ${kembali-menu-materi} ${ menu-utama }
 --
@@ -90,4 +114,6 @@ K: $clear menu
 --
 
 end-room
+
+
 

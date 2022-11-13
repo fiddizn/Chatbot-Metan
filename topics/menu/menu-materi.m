@@ -40,9 +40,11 @@ backMenu: Menu_Utama✨ menu menu_utama
     "https://i.imgur.com/y288uBw.png"
     q{
         <h4>Hai SobatMetan!</h4>
-        <p style="text-align: justify"> Sobat metan pasti sudah tidak asingkan dengan yang namanya Pecahan? Nah bener banget, Pecahan itu adalah bagian dari keseluruhan atau bagian dari sekelompok benda. Sedangkan Pecahan biasa adalah bilangan yang dinyatakan dalam bentuk <sup>a</sup>/<sub>b</sub>, dengan a dan b adalah bilangan bulat serta b tidak sama dengan 0. </p><br/>
+        <p style="text-align: justify"> Sekarang Metan akan membahas mengenai bagaimana cara membandingkan pecahan. </p><br/>
+        <p style="text-align: justify"> Nah, jika penyebut kedua pecahan sama, maka bandingkan langsung pembilangnya ya sobat. </p><br/>
+        <p style="text-align: justify"> Nah, sedangkan jika penyebut kedua pecahan berbeda, maka samakan dahulu penyebutnya sobat, lalu bandingkan pembilangnya yaa. </p><br/>
     }q
-    "Nah sobat untuk bagian yang diwarnai dari gambar di atas menyatakan pecahan <sup>1</sup>/<sub>4</sub>. Nah sekarang sobat metan sudah tahu kan apa itu pecahan,yuk selanjutnya ikut metan menjelajah pecahan senilai."
+    "Nah, seperti gambar diatas <sup>3</sup>/<sub>8</sub>dan<sup>5</sup>/<sub>8</sub>, maka sobatmetan hanya perlu langsung membandingkan pembilangnya saja karena penyebutnya udah sama, maka hasilnya sama seperti gambar diatas yaitu <sup>3</sup>/<sub>8</sub><<sup>5</sup>/<sub>8</sub> (pembilangnya 3 dan 5 sedangkan penyebutnya 8).<p>Nah sedangkan untuk penyebutnya berbeda seperti gambar diatas yaitu <sup>1</sup>/<sub>3</sub>dan<sup>1</sup>/<sub>4</sub>, sobatMetan hanya perlu mengalikannya saja. Lalu bagaimana cara mengalikannya?? SobatMetan hanya tinggal kali silang saja penyebut dan pembilang.Caranya kali silangnya gimana Metan? <sup>1</sup>/<sub>3</sub>dan<sup>1</sup>/<sub>4</sub> sobatMetan hanya perlu mengalikan saja mau dari kiri atau kanan sama aja seperti 4 x 1 lalu x 3 dan 3 x 1 lalu x 4 maka hasil dari <sup>1</sup>/<sub>3</sub>dan<sup>1</sup>/<sub>4</sub>=<sup>4</sup>/<sub>12</sub>dan<sup>3</sup>/<sub>12.<p>Jadi kalau sobatMetan bandingkan hasilnya seperti seperti berikut <sup>4</sup>/<sub>12</sub>><sup>3</sup>/<sub>12</sub>atau<sup>1</sup>/<sub>3</sub>><sup>1</sup>/<sub>4</sub>.</sub></p></p>"
     materi
 ;
 
@@ -51,9 +53,9 @@ backMenu: Menu_Utama✨ menu menu_utama
     "https://i.imgur.com/y288uBw.png"
     q{
         <h4>Hai SobatMetan!</h4>
-        <p style="text-align: justify"> Sobat metan pasti sudah tidak asingkan dengan yang namanya Pecahan? Nah bener banget, Pecahan itu adalah bagian dari keseluruhan atau bagian dari sekelompok benda. Sedangkan Pecahan biasa adalah bilangan yang dinyatakan dalam bentuk <sup>a</sup>/<sub>b</sub>, dengan a dan b adalah bilangan bulat serta b tidak sama dengan 0. </p><br/>
+        <p style="text-align: justify"> Nah untuk mengurutkan pecahan sobatMetan langsung saja liat contoh soal gambar dibawah!! </p><br/>
     }q
-    "Nah sobat untuk bagian yang diwarnai dari gambar di atas menyatakan pecahan <sup>1</sup>/<sub>4</sub>. Nah sekarang sobat metan sudah tahu kan apa itu pecahan,yuk selanjutnya ikut metan menjelajah pecahan senilai."
+    "Lalu bagaimana Metan cara mengurutkannya atau menyelesaikannya?<p>SobatMetan hanya perlu samakan penyebut pecahan terlebih dahulu ya sobat, lalu urutkan pembilangnya.</p><p>Apakah rumusnya sama kayak membandingkan pecahan yang kali silang itu?</p><p>SobatMetan bisa gunakan rumus kali silang. Cuman agar lebih cepat dalam pengerjaannya sobatMetan bisa gunakan rumus KPK, contohnya perkalian berapa saja yang menghasilkan hasil 12, maka jawabanya ialah perkalian 1, 2, 3, 4, 6 dan 12 yang dimana 1x12=12 2x6=12, 3x4=12...</p><p>Nah, Metan langsung saja bagaimana cara menggunakan rumus KPK ini. <sup>5x1</sup>/<sub>8x1</sub>, <sup>1x2</sup>/<sub>4x2</sub>, <sup>1x4</sup>/<sub>2x4</sub>, <sup>3x3</sup>/<sub>4x3</sub></p><p>Maka hasilnya <sup>5</sup>/<sub>8</sub>, <sup>2</sup>/<sub>8</sub>, <sup>4</sup>/<sub>8</sub>, <sup>6</sup>/<sub>8</sub></p><p>Maka urutan pecahan dari yang terbesar <sup>6</sup>/<sub>8</sub>, <sup>5</sup>/<sub>8</sub>, <sup>4</sup>/<sub>8</sub>, <sup>2</sup>/<sub>8</sub> atau <sup>3</sup>/<sub>4</sub>, <sup>5</sup>/<sub>8</sub>, <sup>1</sup>/<sub>2</sub>, <sup>1</sup>/<sub>4</sub></p>"
     materi
 ;
 
@@ -81,7 +83,9 @@ backMenu: Menu_Utama✨ menu menu_utama
     {{ "Pecahan Biasa" 
        "Pecahan Campuran" 
        "Pecahan Desimal" 
-       "Persen" }} mk-menu
+       "Persen"
+       "Mengubah Bentuk Pecahan"
+    }} mk-menu
 ;
 
 : menu-pembulatan-pecahan ( -- "s" )
@@ -193,6 +197,8 @@ K: $clear menu
 --
 
 end-room
+
+
 
 
 

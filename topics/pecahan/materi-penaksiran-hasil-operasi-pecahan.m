@@ -12,9 +12,9 @@
     "https://i.imgur.com/y288uBw.png"
     q{
         <h4>Hai SobatMetan!</h4>
-        <p style="text-align: justify"> Sobat metan pasti sudah tidak asingkan dengan yang namanya Pecahan? Nah bener banget, Pecahan itu adalah bagian dari keseluruhan atau bagian dari sekelompok benda. Sedangkan Pecahan biasa adalah bilangan yang dinyatakan dalam bentuk <sup>a</sup>/<sub>b</sub>, dengan a dan b adalah bilangan bulat serta b tidak sama dengan 0. </p><br/>
+        <p style="text-align: justify"> Sobat metan kita langsung saja masuk ke contohnya. Agar sobat Metan dapat paham. </p><br/>
     }q
-    "Nah sobat untuk bagian yang diwarnai dari gambar di atas menyatakan pecahan <sup>1</sup>/<sub>4</sub>. Nah sekarang sobat metan sudah tahu kan apa itu pecahan,yuk selanjutnya ikut metan menjelajah pecahan senilai."
+    "Gimana mudah kan ?"
     materi
 ;
 
@@ -24,9 +24,9 @@
     q{
         <h4>Hai SobatMetan!</h4>
         <h4>Penaksiran</h4>
-        <p style="text-align: justify"> Sobat metan pasti sudah tidak asingkan dengan yang namanya Pecahan? Nah bener banget, Pecahan itu adalah bagian dari keseluruhan atau bagian dari sekelompok benda. Sedangkan Pecahan biasa adalah bilangan yang dinyatakan dalam bentuk <sup>a</sup>/<sub>b</sub>, dengan a dan b adalah bilangan bulat serta b tidak sama dengan 0. </p><br/>
+        <p style="text-align: justify"> Sobat metan kita langsung saja masuk ke contohnya. Agar sobat Metan dapat paham. </p><br/>
     }q
-    "Nah sobat untuk bagian yang diwarnai dari gambar di atas menyatakan pecahan <sup>1</sup>/<sub>4</sub>. Nah sekarang sobat metan sudah tahu kan apa itu pecahan,yuk selanjutnya ikut metan menjelajah pecahan senilai."
+    "Gimana mudah kan ?"
     materi
 ;
 
@@ -36,9 +36,11 @@
     q{
         <h4>Hai SobatMetan!</h4>
         <h4>Penaksiran</h4>
-        <p style="text-align: justify"> Sobat metan pasti sudah tidak asingkan dengan yang namanya Pecahan? Nah bener banget, Pecahan itu adalah bagian dari keseluruhan atau bagian dari sekelompok benda. Sedangkan Pecahan biasa adalah bilangan yang dinyatakan dalam bentuk <sup>a</sup>/<sub>b</sub>, dengan a dan b adalah bilangan bulat serta b tidak sama dengan 0. </p><br/>
+        <p style="text-align: justify"> Penaksiran hasil operasi hitung bilangan persen dapat dilakukan dengan cara berikut 1. Membulatkan bilangan persen ke puluhan terdekat </p>
+        <p style="text-align: justify"> <h4>1. Membulatkan bilangan persen ke puluhan terdekat</4> </p>
+        <p style="text-align: justify"> <h4>2. Menggunakan bilangan persen acuan, yaitu 0%, 25%,50%, 75%, dan 100%</4> </p></br>
     }q
-    "Nah sobat untuk bagian yang diwarnai dari gambar di atas menyatakan pecahan <sup>1</sup>/<sub>4</sub>. Nah sekarang sobat metan sudah tahu kan apa itu pecahan,yuk selanjutnya ikut metan menjelajah pecahan senilai."
+    "Pada garis bilangan, letak 65% paling dekat ke 75%"
     materi
 ;
 
@@ -72,3 +74,4 @@ K: $clear menu
 --
 
 end-room
+
