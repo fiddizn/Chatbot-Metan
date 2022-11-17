@@ -23,7 +23,7 @@ start: start mulai
             <img style="width: 80%" src="https://s4.gifyu.com/images/Welcome-Metan.gif">
         </div>
         #{btn}
-    }q
+    }q begin-visit
 ;
 
 : bc-intro ( -- "s" )
