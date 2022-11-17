@@ -37,25 +37,25 @@ backMenu: Menu_Utama✨ menu menu_utama
 
 : materi-membandingkanPecahan ( -- "s" ) 
     "Membandingkan Pecahan"
-    "https://i.imgur.com/y288uBw.png"
+    "https://blogger.googleusercontent.com/img/a/AVvXsEg62h4bwaudSNwLiheL3cOQWu10fNdcriUCp9rzHF2FHtyd6v7QGbGt5MtNRGSJ9BmjBiqj34yBBEtqWMPsMBv_4vx18LqXRigWuZ0C9IVrdEG8dJKKt4gjk7AThlaDFAvEWMFsPANBSEpJy9nSTM1ewyRp0MzGOGq1fwmJz37J0Sm0e6wOUCXz1omL"
     q{
         <h4>Hai SobatMetan!</h4>
-        <p style="text-align: justify"> Sekarang Metan akan membahas mengenai bagaimana cara membandingkan pecahan. </p><br/>
-        <p style="text-align: justify"> Nah, jika penyebut kedua pecahan sama, maka bandingkan langsung pembilangnya ya sobat. </p><br/>
+        <p style="text-align: justify"> Sekarang Metan akan membahas mengenai bagaimana cara membandingkan pecahan. </p>
+        <p style="text-align: justify"> Nah, jika penyebut kedua pecahan sama, maka bandingkan langsung pembilangnya ya sobat. </p>
         <p style="text-align: justify"> Nah, sedangkan jika penyebut kedua pecahan berbeda, maka samakan dahulu penyebutnya sobat, lalu bandingkan pembilangnya yaa. </p><br/>
     }q
-    "Nah, seperti gambar diatas <sup>3</sup>/<sub>8</sub>dan<sup>5</sup>/<sub>8</sub>, maka sobatmetan hanya perlu langsung membandingkan pembilangnya saja karena penyebutnya udah sama, maka hasilnya sama seperti gambar diatas yaitu <sup>3</sup>/<sub>8</sub><<sup>5</sup>/<sub>8</sub> (pembilangnya 3 dan 5 sedangkan penyebutnya 8).<p>Nah sedangkan untuk penyebutnya berbeda seperti gambar diatas yaitu <sup>1</sup>/<sub>3</sub>dan<sup>1</sup>/<sub>4</sub>, sobatMetan hanya perlu mengalikannya saja. Lalu bagaimana cara mengalikannya?? SobatMetan hanya tinggal kali silang saja penyebut dan pembilang.Caranya kali silangnya gimana Metan? <sup>1</sup>/<sub>3</sub>dan<sup>1</sup>/<sub>4</sub> sobatMetan hanya perlu mengalikan saja mau dari kiri atau kanan sama aja seperti 4 x 1 lalu x 3 dan 3 x 1 lalu x 4 maka hasil dari <sup>1</sup>/<sub>3</sub>dan<sup>1</sup>/<sub>4</sub>=<sup>4</sup>/<sub>12</sub>dan<sup>3</sup>/<sub>12.<p>Jadi kalau sobatMetan bandingkan hasilnya seperti seperti berikut <sup>4</sup>/<sub>12</sub>><sup>3</sup>/<sub>12</sub>atau<sup>1</sup>/<sub>3</sub>><sup>1</sup>/<sub>4</sub>.</sub></p></p>"
+    "<p>Noted: Jika penybutnya berbeda Sobat Metan hanya perlu mengalikannya saja. Tinggal kali silang saja penyebut dan pembilang. <sup>1</sup>/<sub>3</sub>dan<sup>1</sup>/<sub>4</sub> sobatMetan hanya perlu mengalikan saja mau dari kiri atau kanan sama aja seperti 4 x 1 lalu x 3 dan 3 x 1 lalu x 4 maka hasil dari <sup>1</sup>/<sub>3</sub>dan<sup>1</sup>/<sub>4</sub>=<sup>4</sup>/<sub>12</sub>dan<sup>3</sup>/<sub>12.<p>Jadi kalau sobatMetan bandingkan hasilnya seperti seperti berikut <sup>4</sup>/<sub>12</sub>><sup>3</sup>/<sub>12</sub>atau<sup>1</sup>/<sub>3</sub>><sup>1</sup>/<sub>4</sub>.</sub></p></p>"
     materi
 ;
 
 : materi-mengurutkanPecahan ( -- "s" ) 
     "Mengurutkan Pecahan"
-    "https://i.imgur.com/y288uBw.png"
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUCI-ZB0QDn1-RT1MN2R3aRGYIlWlo852Swa1U3AILh0MlJlP_pL29-qyzoZ5J8vFDIF5XsyLwEn7rEOKle-xiCOD_Jbb1kmgP2LmhSwM_hp936u-5bSbJbXxuvgMHaagdfC6NZ5H7Fi0bC5Q8Sb6nOn8PTkcBz51lFczo3n7mOHZpK3B3_7D9qvpu/s16000/math1.png"    
     q{
         <h4>Hai SobatMetan!</h4>
         <p style="text-align: justify"> Nah untuk mengurutkan pecahan sobatMetan langsung saja liat contoh soal gambar dibawah!! </p><br/>
     }q
-    "Lalu bagaimana Metan cara mengurutkannya atau menyelesaikannya?<p>SobatMetan hanya perlu samakan penyebut pecahan terlebih dahulu ya sobat, lalu urutkan pembilangnya.</p><p>Apakah rumusnya sama kayak membandingkan pecahan yang kali silang itu?</p><p>SobatMetan bisa gunakan rumus kali silang. Cuman agar lebih cepat dalam pengerjaannya sobatMetan bisa gunakan rumus KPK, contohnya perkalian berapa saja yang menghasilkan hasil 12, maka jawabanya ialah perkalian 1, 2, 3, 4, 6 dan 12 yang dimana 1x12=12 2x6=12, 3x4=12...</p><p>Nah, Metan langsung saja bagaimana cara menggunakan rumus KPK ini. <sup>5x1</sup>/<sub>8x1</sub>, <sup>1x2</sup>/<sub>4x2</sub>, <sup>1x4</sup>/<sub>2x4</sub>, <sup>3x3</sup>/<sub>4x3</sub></p><p>Maka hasilnya <sup>5</sup>/<sub>8</sub>, <sup>2</sup>/<sub>8</sub>, <sup>4</sup>/<sub>8</sub>, <sup>6</sup>/<sub>8</sub></p><p>Maka urutan pecahan dari yang terbesar <sup>6</sup>/<sub>8</sub>, <sup>5</sup>/<sub>8</sub>, <sup>4</sup>/<sub>8</sub>, <sup>2</sup>/<sub>8</sub> atau <sup>3</sup>/<sub>4</sub>, <sup>5</sup>/<sub>8</sub>, <sup>1</sup>/<sub>2</sub>, <sup>1</sup>/<sub>4</sub></p>"
+    "<p>SobatMetan perlu samakan penyebut pecahan terlebih dahulu, lalu urutkan pembilangnya.</p><p>SobatMetan bisa gunakan rumus kali silang. Cuman agar lebih cepat dalam pengerjaannya sobatMetan bisa gunakan rumus KPK, contohnya perkalian berapa saja yang menghasilkan hasil 12, maka jawabanya ialah perkalian 1, 2, 3, 4, 6 dan 12 yang dimana 1x12=12 2x6=12, 3x4=12...</p><p>Nah, Metan langsung saja bagaimana cara menggunakan rumus KPK ini. <sup>5x1</sup>/<sub>8x1</sub>, <sup>1x2</sup>/<sub>4x2</sub>, <sup>1x4</sup>/<sub>2x4</sub>, <sup>3x3</sup>/<sub>4x3</sub></p><p>Maka hasilnya <sup>5</sup>/<sub>8</sub>, <sup>2</sup>/<sub>8</sub>, <sup>4</sup>/<sub>8</sub>, <sup>6</sup>/<sub>8</sub></p>."
     materi
 ;
 
@@ -145,31 +145,37 @@ room: menumateri
 Q: pengenalan pecahan
 A: ${menu-pengenalan-pecahan} ${kembali-menu-materi} ${menu-utama}
 K: $back materipengenalanpecahan
+T: pengenalan
 --
 
 Q: perbandingan pecahan
 A: ${materi-membandingkanPecahan} ${menu-back}
 K: $back materiperbandinganpecahan
+T: perbandingan
 --
 
 Q: pengurutan pecahan
 A: ${materi-mengurutkanPecahan} ${menu-back}
 K: $back materipengurutanpecahan
+T: pengurutan
 --
 
 Q: bentuk pecahan
 A: ${menu-bentuk-pecahan} ${kembali-menu-materi} ${menu-utama}
 K: $back materibentukpecahan
+T: bentuk
 --
 
 Q: pembulatan pecahan
 A: ${menu-pembulatan-pecahan} ${kembali-menu-materi} ${menu-utama}
 K: $back materipembulatanpecahan
+T: pembulatan
 --
 
 Q: penaksiran hasil operasi pecahan
 A: ${menu-penaksiran-hasil-operasi-pecahan} ${kembali-menu-materi} ${menu-utama}
 K: $back materipenaksiranpecahan
+T: penaksiran
 --
 
 Q: @rumus
@@ -197,10 +203,3 @@ K: $clear menu
 --
 
 end-room
-
-
-
-
-
-
-
